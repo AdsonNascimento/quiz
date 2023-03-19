@@ -12,7 +12,7 @@
       </template>
     </template>
 
-    <button class="send" type="button">Send</button>
+    <button class="send" type="button">enviar</button>
   </div>
 
 </template>
